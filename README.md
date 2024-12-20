@@ -18,7 +18,7 @@ Esta confluencia de los medios, en el caso de la hibridación, no hace que convi
 En este contexto, plataformas como **Spotify** y **Google Arts & Culture** sirven como dos de tantos ejemplos sobre cómo los medios tradicionales se hibridan con otras tecnologías, reconfigurándose y dando lugar a nuevos medios y nuevas formas de consumo e interacción. A través de estos casos, exploraremos cómo se manifiestan las estrategias de hibridación y cómo estas plataformas transforman nuestra manera de interactuar con la música, el arte y la cultura.
 
 ## **Re-descubriendo la hibridación: Spotify**
-<div style="text-align: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Spotify_Badge_%28large%29.png" alt="Descripción" width="50%" /></div><br>
+<div style="text-align: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Spotify_Badge_%28large%29.png" alt="Spotify" width="50%" /></div><br>
 
 **Spotify** es una plataforma de **streaming de música** que se ha convertido en un referente en nuestra cultura popular, siendo *el servicio de suscripción de streaming de audio más popular del mundo con más de 640 millones de usuarios*, según [Spotify Newsroom](https://newsroom.spotify.com/company-info/). A simple vista y con la perspectiva actual, podríamos pensar que se trata solo un servicio para escuchar música. Sin embargo, si analizamos sus características en nuestro contexto de estudio, descubrimos que va más allá de la "simple" transmisión de audio.
 
@@ -35,7 +35,9 @@ En definitiva,
 
 Y aunque Spotify no modifica los formatos de su medio principal en sí (las canciones en wav o en cualquier formato digital, siguen siendo canciones), sí redefine la manera en que interactuamos con ese y otros medios, fusionados en uno con un lenguaje propio.
 
-## Re-descubriendo la hibridación: Google Arts & Culture
+## Re-descubriendo la hibridación: Google Arts & Culture  
+
+<div style="text-align: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Google_Arts_and_Culture_wordmark.svg" alt="GoogleArts" width="50%" /></div><br>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 

@@ -18,11 +18,15 @@ Esta confluencia de los medios, en el caso de la hibridación, no hace que convi
 En este contexto, plataformas como **Spotify** y **Google Arts & Culture** sirven como dos de tantos ejemplos sobre cómo los medios tradicionales se hibridan con otras tecnologías, reconfigurándose y dando lugar a nuevos medios y nuevas formas de consumo e interacción. A través de estos casos, exploraremos cómo se manifiestan las estrategias de hibridación y cómo estas plataformas transforman nuestra manera de interactuar con la música, el arte y la cultura.
 
 ## **Re-descubriendo la hibridación: Spotify**
-<div style="text-align: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Spotify_Badge_%28large%29.png" alt="Spotify" width="50%" /></div><br>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Spotify_Badge_%28large%29.png" alt="Spotify" width="50%" /></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Spotify_Badge_%28large%29.png">Imagen de Spotify</a> por Emir Dalgıç, licencia bajo <a href="https://creativecommons.org/licenses/by/3.0/deed.es" target="_blank">CC BY 3.0</a></p>
 
 **Spotify** es una plataforma de **streaming de música** que se ha convertido en un referente en nuestra cultura popular, siendo *el servicio de suscripción de streaming de audio más popular del mundo con más de 640 millones de usuarios*, según [Spotify Newsroom](https://newsroom.spotify.com/company-info/). A simple vista y con la perspectiva actual, podríamos pensar que se trata solo un servicio para escuchar música. Sin embargo, si analizamos sus características en nuestro contexto de estudio, descubrimos que va más allá de la "simple" transmisión de audio.
 
 Por supuesto, a través de este nuevo medio podemos escuchar música y pódcasts, pero también podemos interactuar con listas de reproducción personalizadas, descubrir música gracias a algoritmos de recomendación automáticos, ver las letras de la canciones mientras las escuchamos, ver los videos musicales de las canciones o incluso interaccionar con otros artistas o usuarios compartiendo contenido, comentando o participando en comunidades temáticas. Este tipo de personalización convierte esta plataforma en un **nuevo medio y lenguaje de consumo**, donde el usuario no solo es un receptor pasivo de música, sino también de otros elementos multimedia, así como un participante activo en su interacción con la música. Algo completamente distinto a lo que podría ser un reproductor de CDs o incluso MP3.
+
+<p align="center"><img src="https://www.trustedreviews.com/wp-content/uploads/sites/54/2023/09/How-to-use-Spotify-AI-DJ-2.jpg" alt="Spotify_IA" width="35%" /></p>
+<p align="center"><a href="https://www.trustedreviews.com/wp-content/uploads/sites/54/2023/09/How-to-use-Spotify-AI-DJ-2.jpg">Interfaz de Spotify</a> por Max Parker, licencia bajo <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es">CC BY-NC-ND 4.0</a></p>
 
 Como acabamos de ver, confluyen en Spotify distintos contenidos, pero la hibridación da como resultado un nuevo espacio dinámico donde esos distintos formatos conviven y funcionan conjuntamente de forma coherente. En este entorno podemos ver la combinación de distintos elementos: **audio** en distintos formatos (música), **imágenes** (portadas de álbumes), **textos** (letras o títulos de canciones o de interfaz) y **vídeos** (videos musicales o incluso "canvas", que son nuevos vídeos cortos en bucle que los artistas pueden asignar a una canción o álbum). Todo ello integrado con distintas técnicas en su interfaz interactiva, que permite al usuario navegar por los distintos medios de forma simultánea. Además, esta **interfaz también conecta con las distintas formas de contenidos ya existente**. Por ejemplo, las listas de reproducción recomendadas, que funcionan como una interfaz para navegar a través de nuevas bibliotecas musicales. Del mismo modo, se puede acceder a pódcasts y "pódcasts con música", así como a los vídeos musicales.
 
@@ -37,9 +41,10 @@ Y aunque Spotify no modifica los formatos de su medio principal en sí (las canc
 
 ## Re-descubriendo la hibridación: Google Arts & Culture  
 
-<div style="text-align: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Google_Arts_and_Culture_wordmark.svg" alt="GoogleArts" width="50%" /></div><br>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Google_Arts_and_Culture_wordmark.svg" alt="GoogleArts" width="50%" /></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Google_Arts_and_Culture_wordmark.svg">Logo de Google Arts & Culture</a> de dominio público sin restricciones de derechos de autor</p>   
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Google Arts & Culture (anteriormente Google Art Project) es una plataforma digital que pone a disposición de los usuarios una vasta colección de arte, historia, cultura y patrimonio a través de imágenes en alta calidad y una experiencia inmersiva con recorridos virtuales. Actualmente, *colabora con más de 2000 instituciones culturales de más de 80 países y cuenta con más de 200.000 imágenes digitales de alta resolución de obras de arte originales, 7 millones de artefactos de archivo, más de 1800 capturas de museos de Street View y más de 3000 exposiciones online seleccionadas por expertos* ([fuente](https://support.google.com/culturalinstitute/partners/answer/4395223?hl=es#:~:text=En%20Google%20Arts%20%26%20Culture%20desarrollamos,mundo%20a%20trav%C3%A9s%20de%20Internet.)).
 
 
 

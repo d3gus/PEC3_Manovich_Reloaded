@@ -1,7 +1,8 @@
 # PEC3: visionando el futuro con las gafas de Manovich
 
 ![Portada](https://github.com/d3gus/PEC3_Manovich_Reloaded/blob/main/images/matrix_manovich_portada.gif)
-<img src="[ruta/a/tu/imagen.jpg" alt="Descripción de la imagen](https://github.com/d3gus/PEC3_Manovich_Reloaded/blob/main/images/matrix_manovich_portada.gif)">
+
+<img src="https://github.com/d3gus/PEC3_Manovich_Reloaded/blob/main/images/matrix_manovich_portada.gif" alt="Portada">
 
 Autor: **Diego Corral González**.  
 Cultura Digital. Universitat Oberta de Catalunya. Curso 2024/2025

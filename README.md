@@ -8,7 +8,7 @@ Cultura Digital. Universitat Oberta de Catalunya. Curso 2024/2025
 
 > «_Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos […] Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios_» (Manovich, 2013)
 
-Tras el análisis de otras características de los nuevos medios en prácticas anteriores, en esta nos centraremos en otro que ocupa buena parte de la obra de Lev Manovich: **la hibridación**. Dada la importancia de este nuevo término, conviene diferenciarlo de otro con el que está relacionado, "la multimedia".
+Tras el análisis de otras características de los nuevos medios en ensayos anteriores, en esta nos centraremos en otro que ocupa buena parte de la obra de Lev Manovich: **la hibridación**. Dada la importancia de este nuevo término, conviene diferenciarlo de otro con el que está relacionado, "la multimedia".
 
 > _[...] la hibridez de los medios es una reconfiguración más fundamental del universo de los medios que la multimedia. En ambos casos vemos una «confluencia» de distintos tipos de medios. Ahora bien, la multimedia no amenaza la autonomía de los medios individuales. Conservan su propio lenguaje, es decir, sus formas de organizar, acceder y modificar sus datos._ (Manovich, 2013)
 
